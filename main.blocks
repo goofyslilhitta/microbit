@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="bL]~:[^nZ}-UwBHOcBv+" x="20" y="-674"></block><block type="device_forever" id="/Br#i5r?HM^h95zUqmMe" x="421" y="-608"></block><block type="device_button_event" id="d4[|?D=Qd2p)5]):,24@" x="86" y="-473"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="S[b*H9Rk6)ZP,WVEqe%_"><field name="LEDS">`
+        # . . . # 
+        # . . . # 
+        # . # . # 
+        . # . # . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="PFX9m#PbsY2H@|d7A7H*" x="383" y="-479"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="*6L0(h?M{h8+7Ge%L?!6"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # #
+        `</field></block></statement></block><block type="device_gesture_event" id="1Mh+rE|%d`}5=KEQXLV1" x="716" y="-476"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_plot" id="tY=tno#-U#CtfHK#_Kzr"><value name="x"><shadow type="math_number_minmax" id="K=QhH$itTUY^%+uD2db7"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">2</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="Rb/G6GF_[}`ymK%BU1rZ"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">2</field></shadow></value></block></statement></block></xml>
